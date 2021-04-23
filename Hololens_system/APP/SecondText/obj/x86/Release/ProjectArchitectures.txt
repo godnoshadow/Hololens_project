@@ -1,0 +1,2 @@
+D:\unity_project\Hololens1\APP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+D:\unity_project\Hololens1\APP\SecondText\SecondText.csproj;x86
